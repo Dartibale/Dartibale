@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dartibale
+- 👋 Hi, I’m @Luiz Henriqu Dartibale
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anything that i can do
 - 📫 How to reach me luizlhd@gmail.com
 

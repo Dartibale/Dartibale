@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luiz Henrique Dartibale
+- 👋 Hi, I’m @Luiz 
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anything that i can do
